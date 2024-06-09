@@ -4,7 +4,7 @@ Welcome to Tower of Evil development team!
 
 ## Setting the repository up locally
 
-1. Clone the repository `https://github.com/RyamL1221/Tower-of-Evil`
+1. Clone the repository `git clone https://github.com/RyamL1221/Tower-of-Evil`
 2. Switch to the dev branch `git checkout dev`
 
 ## Adding new features
